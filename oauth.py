@@ -15,6 +15,8 @@ SCOPES = [
     "https://www.googleapis.com/auth/calendar.events",
     "https://www.googleapis.com/auth/calendar.app.created",
     "https://www.googleapis.com/auth/calendar.events.owned",
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/gmail.send",
 ]
 
 CREDENTIALS_FILE = "credentials1.json"  # File to store tokens
@@ -47,3 +49,5 @@ with open(CREDENTIALS_FILE, "w") as token_file:
     token_file.write(credentials.to_json())
 
 print(credentials.token)
+
+# AIzaSyDru1qtay6NSMmVoivDHcQzcmX3JG3aIuU

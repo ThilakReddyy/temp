@@ -12,3 +12,14 @@ checking train status - 30 minutes
 ordering food - zomato or swiggy - 30 minutes
 alarm - will see
 reminder - will see
+
+curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBflwF33MHMmoSFJMmnunkDMnqf87Zs9BA" \
+-H 'Content-Type: application/json' \
+-X POST \
+-d '{
+  "contents": [{
+    "parts":[{"text": "Explain how AI works"}]
+    }]
+   }'
+
+// AIzaSyBflwF33MHMmoSFJMmnunkDMnqf87Zs9BA

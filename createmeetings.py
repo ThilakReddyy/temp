@@ -1,6 +1,5 @@
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
-import datetime
 import json
 
 CREDENTIALS_FILE = "credentials1.json"
