@@ -1,0 +1,14 @@
+meeting -google console - 45 minutes
+  set a meeting and invite members
+  get meetings for a particular date
+  send meeting invite to whatsapp
+checking new mails - google console -30 minutes
+  send a mail -google console
+checking stock prices - 15 minutes
+finding nearby restarurants - 15 minutes
+checking flight status - 15 minutes
+checking bus status - 15 minutes
+checking train status - 30 minutes
+ordering food - zomato or swiggy - 30 minutes
+alarm - will see
+reminder - will see
